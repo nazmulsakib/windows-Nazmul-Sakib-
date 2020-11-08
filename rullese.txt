@@ -1,0 +1,25 @@
+> fastappol off windows deffinder and realtime protasion।
+#প্রথমে উইন্ডোজ এর ডিফেনার টা অফ করুন তারপর রিয়াল টাইম প্রটেকসন টা অফ করুন তারপর এই প্রসেস গুলে ফলো করুন কেনোনা এটি একটি হেকিং প্রোগ্রাম এবং এটি আমি নিজে তৈরি করেছি।
+> copy to windows 10 activision text in cmd .rtf---- any prosses
+# কপি করুন উইন্ডোস ১০ একটিবেসন টেক্সট ফাইলটির যে কোনো একটি প্রসেস
+> opene in Notepad>>
+#ওপেন করুন নোটপ্যাড
+> in copey .rtf file text
+#পেস্ট করুন টেক্সট গুলো, যা পেয়েছিলেন।
+> and save now bat
+# এবং সেইভ করুন কিন্তু
+> save all file and formate in .cmd/.bat i recoment .cmd bat prossese:3 in only .bat fail
+# সেইভ করুন ওল ফরমেটে এবং সংকেত দিন সিএমডি অথবা বিএটি ফরমেটে কিন্তু প্রসেস ৩ একন্ত ভাবেই বিএটি ফরমেটে কাজ করে।
+> and run in .cmd/.bat file
+#এবং ওপেন করুন সেই এক্সিউটেবেল ফাইল যেটা আপনি তৈরি করলেন।
+ওকে ওল সেট এবং ইনজয় উইন্ডোজ টেন
+
+--------------------------------------------------------
+
+			My online profile
+	Youtube: https://www.youtube.com/channel/UCtL96HMr2FraJ6UiQxhBSuw?view_as=subscriber
+	Facebook: https://www.facebook.com/Rahansakib203
+				or
+ 	Facebook: https://www.facebook.com/profile.php?id=100024615302000
+	Bahance: https://www.behance.net/nazmulsakib203
+	Freelancer: https://www.freelancer.com/u/nazmulsakib203
